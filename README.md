@@ -9,10 +9,8 @@
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [License](#License)
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
-
+  * [Contributing](#Credits)
+  
   ## Installation
   * Required
     * Terminal or [Git Bash](https://git-scm.com/downloads)
