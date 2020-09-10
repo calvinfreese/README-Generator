@@ -43,7 +43,7 @@ npm install
   Answers will create `generatedREADME.md` and populate the corresponding fields.
 
   ## License
-  * [MIT](./LICENSE)
-  MIT (c) 2020 Calvin Freese
+  [MIT](./LICENSE)
+  © 2020 Calvin Freese
   ## Credits
   Trilogy Education Services for providing this assignment.
