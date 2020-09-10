@@ -44,6 +44,6 @@ npm install
 
   ## License
   * [MIT](./LICENSE)
-  
+  MIT (c) 2020 Calvin Freese
   ## Credits
   Trilogy Education Services for providing this assignment.
