@@ -14,9 +14,15 @@
   * [Questions](#Questions)
 
   ## Installation
-  [Node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) are required. npm is included in the Node installation.
+  * Required
+    * Terminal or [Git Bash](https://git-scm.com/downloads)
+    * [Node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) - npm is included in the Node installation.
+    * Text Editor of your choice:
+      * [Atom](https://atom.io/)
+      * [Sublime](https://www.sublimetext.com/)
+      * [VSCode](https://code.visualstudio.com/)
   
-  If you're not sure if you have already have installed node/npm, you can verify by typing the below commands in the terminal
+  Node/npm installation and/or version can be verified by entering the below commands into the terminal/Git Bash.
   ```
   
   node -v
@@ -38,7 +44,7 @@ npm install
 
 
   ## Usage
-  Start program by entering ` node index.js ` in the terminal. Respond to prompts accordingly. For the installation notes prompt, click `enter` to open up a text editor. When done entering notes, save and exit the text editor. Continue on with remaining prompts. 
+  Start program by entering ` node index.js ` in the terminal/git bash. Respond to prompts accordingly. For the installation notes prompt, click `enter` to open up a text editor. When done entering notes, save and exit the text editor. Continue on with remaining prompts. 
 
   Answers will create `generatedREADME.md` and populate the corresponding fields.
 
