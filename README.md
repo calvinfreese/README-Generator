@@ -1,6 +1,6 @@
  # README Generator
   ## Description 
-  Generate README based on series of prompts and user input.
+  Generates a README.md based on terminal prompts and user responses.
 
 ![GitHub](https://img.shields.io/github/license/whackingMUFN/README-Generator?style=for-the-badge)
   
@@ -52,4 +52,4 @@ npm install
   [MIT](./LICENSE)
   © 2020 Calvin Freese
   ## Credits
-  Trilogy Education Services for providing this assignment.
+   This assignment was provided by Trilogy Education Services. Code was structured based on in class activities and lectures.
