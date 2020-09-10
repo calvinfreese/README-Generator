@@ -1,0 +1,17 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin Freese",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "badge-maker": "^3.2.0",
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "description": "generate readme"
+}
