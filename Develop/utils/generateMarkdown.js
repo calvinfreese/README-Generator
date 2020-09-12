@@ -45,9 +45,10 @@ const generateMarkdown = function(data) {
 
   
   return `
-  # Title: ${data.title}
+  # ${data.title}
   ## Description 
   ${data.description}
+
   ![License: ${data.license}](${badge})
   #### Table of Contents
   * [Description](#Description)

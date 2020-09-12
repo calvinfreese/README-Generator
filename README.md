@@ -46,6 +46,19 @@ npm install
 
   Answers will create `generatedREADME.md` and populate the corresponding fields.
 
+  ### Screenshots
+
+  * Start
+  ![Start](./Develop/imgs/start.png)
+
+  * Prompts
+  ![Prompts](./Develop/imgs/prompts.png)
+  ![Prompts2](./Develop/imgs/prompts2.png)
+
+  * End Result
+  ![End Result](./Develop/imgs/end_result.png)
+
+
   ## License
   [MIT](./LICENSE)
   © 2020 Calvin Freese

@@ -71,7 +71,7 @@ function init() {
     .then((response) => {
         // writeToFile('answers.json', response)
         const markDown = generateMarkdown(response);
-        return writeFileAsync('generatedREADME.md', markDown);
+        return writeFileAsync('./readme_generations/generatedREADME.md', markDown);
     })
     .catch(err => {
         if (err){
