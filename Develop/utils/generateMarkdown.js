@@ -1,5 +1,4 @@
-// function to generate markdown for README
-
+//Obj to hold license/badge data
 const badges = [
   {
     name: "Apache 2.0",
@@ -29,6 +28,7 @@ const generateMarkdown = function(data) {
  
  let badge = ''
  let licenseURL = ''
+ //based on data.license value, conditional check to store badge/licenseURL value based on badge object (line 2-23).
  if (data.license === "MIT") {
    badge = badges[1].badge;
    licenseURL = badges[1].url;
