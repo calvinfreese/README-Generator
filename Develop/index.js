@@ -71,6 +71,7 @@ function init() {
     .then((response) => {
         // writeToFile('answers.json', response)
         const markDown = generateMarkdown(response);
+                            // Can adjust below path to write the file to a specific folder. Folder must already exist.
         return writeFileAsync('./readme_generations/generatedREADME.md', markDown);
     })
     .catch(err => {
