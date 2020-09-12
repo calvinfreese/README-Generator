@@ -3,12 +3,12 @@
 const badges = [
   {
     name: "Apache 2.0",
-    badge: "https://img.shields.io/badge/License-Apache%202.0-blue.svg)]",
+    badge: "https://img.shields.io/badge/License-Apache%202.0-blue.svg",
     url: "https://opensource.org/licenses/Apache-2.0"
   },
   {
     name: "MIT",
-    badge: "https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT",
+    badge: "https://img.shields.io/badge/License-MIT-yellow.svg",
     url: "https://opensource.org/licenses/MIT"
   },
   {
