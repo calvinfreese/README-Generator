@@ -1,7 +1,8 @@
 
-  # Title: Project Name
+  # Fancy Title
   ## Description 
-  Goal of Project Name is to gather user input and populate results in a generated file.
+  A big description
+
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   #### Table of Contents
   * [Description](#Description)
@@ -13,34 +14,22 @@
   * [Questions](#Questions)
 
   ## Installation
-  In this free form text editor, I can enter in my installation notes.
-Upon completion of notes, I can save and exit this text editor.
-
-Please install node and npm.
-Verify node/npm versions using the following commands in terminal
-
-```
-node -v 
-
-npm -v
-
-```
+  Install all the things!
 
   ## Usage
-  please navigate to cloned repository and run `node index.js` in the terminal
-
+  Run program by typing `node index.js` in the terminal.
 
   ## License
   * [MIT](https://opensource.org/licenses/MIT) - click to view license information.
 
   
   ## Credits
-  Trilogy Education Services.
+  None at this time.
 
   ## Tests
-  No documented tests.
+  None at this time.
 
   ## Questions
   If there are any questions regarding this project, please reach me at:
    * GitHub: [whackingMUFN](https://github.com/whackingMUFN)
-   * Click to [Email Me](mailto:nonono@noyes.com)
+   * Click to [Email Me](mailto:nono@alwaysno.com)

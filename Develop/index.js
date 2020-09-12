@@ -6,6 +6,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
 
 
 const writeFileAsync = util.promisify(fs.writeFile);
+const readFileAsync = util.promisify(fs.readFile)
 
 
 // array of questions for user
@@ -73,6 +74,15 @@ function init() {
         const markDown = generateMarkdown(response);
                             // Can adjust below path to write the file to a specific folder. Folder must already exist.
         return writeFileAsync('./readme_generations/generatedREADME.md', markDown);
+    })
+    .then(() => {
+        readFileAsync('./readme_generations/generatedREADME.md', 'utf8', (err, data) => {
+            if (err) {
+                console.log(err)
+                return
+            }
+            console.log(data);
+        });
     })
     .catch(err => {
         if (err){
