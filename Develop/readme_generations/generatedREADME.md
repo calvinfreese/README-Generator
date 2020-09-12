@@ -1,9 +1,8 @@
 
-  # test
+  # Title: Project Name
   ## Description 
-  test
-
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  Goal of Project Name is to gather user input and populate results in a generated file.
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   #### Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -14,22 +13,34 @@
   * [Questions](#Questions)
 
   ## Installation
-  testset
+  In this free form text editor, I can enter in my installation notes.
+Upon completion of notes, I can save and exit this text editor.
+
+Please install node and npm.
+Verify node/npm versions using the following commands in terminal
+
+```
+node -v 
+
+npm -v
+
+```
 
   ## Usage
-  TEST
+  please navigate to cloned repository and run `node index.js` in the terminal
+
 
   ## License
-  * [Apache 2.0](https://opensource.org/licenses/MIT) - click to view license information.
+  * [MIT](https://opensource.org/licenses/MIT) - click to view license information.
 
   
   ## Credits
-  just testing
+  Trilogy Education Services.
 
   ## Tests
-  This is only a test.
+  No documented tests.
 
   ## Questions
   If there are any questions regarding this project, please reach me at:
    * GitHub: [whackingMUFN](https://github.com/whackingMUFN)
-   * Click to [Email Me](mailto:nono!@no.com)
+   * Click to [Email Me](mailto:nonono@noyes.com)
