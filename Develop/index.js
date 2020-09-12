@@ -26,7 +26,7 @@ const questions = [
         name: "installation"
     },
     {
-        type: "input",
+        type: "editor",
         message: "What are the steps for usage?",
         name: "usage"
     },
@@ -40,15 +40,21 @@ const questions = [
         message: "Select a License.",
         name: "license",
         choices: [
-            "Apache",
+            "Apache 2.0",
             "MIT",
-            "UnLicense"
+            "ISC",
+            "Unlicense"
         ]
     },
     {
         type: "input",
-        message: "Questions",
-        name: "questions"
+        message: "What is your GitHub Username?",
+        name: "github"
+    },
+    {
+        type: "input",
+        message: "What is your email address?",
+        name: "email"
     },
     {
         type: 'input',
