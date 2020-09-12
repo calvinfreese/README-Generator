@@ -42,7 +42,7 @@ npm install
 
 
   ## Usage
-  Start program by entering ` node index.js ` in the terminal/git bash. Respond to prompts accordingly. For the installation notes prompt, click `enter` to open up a text editor. When done entering notes, save and exit the text editor. Continue on with remaining prompts. 
+  Start program by entering ` node index.js ` in the terminal/git bash. Respond to prompts accordingly. For the installation and usage prompts, click `enter` to open up a text editor. When done entering notes, save and exit the text editor. Continue on with remaining prompts. 
 
   Answers will create `generatedREADME.md` and populate the corresponding fields.
 
