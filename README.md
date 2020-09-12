@@ -56,7 +56,7 @@ npm install
   ![Prompts2](./Develop/imgs/prompts2.png)
 
   * End Result
-  ![End Result](./Develop/imgs/end_result.png)
+  * ![End Result](./Develop/imgs/end_result.png)
 
 
   ## License
